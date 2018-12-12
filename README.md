@@ -1,2 +1,4 @@
 # hello-world
-Just another repo
+hi humans,
+
+Roc here,i like python and test.
